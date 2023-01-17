@@ -528,7 +528,7 @@ main {
 }
 .hero figure figcaption .caption-storage {
   width: 80px;
-  height: 43p;
+  height: 43px;
   background-image: url("../images/hero_ipad_caption_storage.png");
   transform: translate(627px, 631px);
 }
